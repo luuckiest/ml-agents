@@ -22,7 +22,7 @@ setup(
     install_requires=[
         "cloudpickle",
         "grpcio>=1.11.0",
-        "numpy>=1.13.3,<2.0",
+        "numpy==1.16.4",
         "Pillow>=4.2.1",
         "protobuf>=3.6",
     ],
